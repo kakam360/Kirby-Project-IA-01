@@ -57,7 +57,7 @@
         <div class="static-header-wrapper">
             <div class="widget-wrapper">
                 <div class="grid-1 text-size-1">
-                    <p>Inter Assist GmbH<br><a rel="noreferrer noopener" href="https://goo.gl/maps/Z1PcKrUZMoj4chd47" target="_blank">Hauptstrasse 46a<br>4450 Sissach</a></p>
+                    <p>Inter Assist <br><a rel="noreferrer noopener" href="https://goo.gl/maps/Z1PcKrUZMoj4chd47" target="_blank">Hauptstrasse 46a<br>4450 Sissach</a></p>
                 </div>
             </div>
             <div class="static-header">

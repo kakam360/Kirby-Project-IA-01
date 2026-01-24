@@ -2,4 +2,115 @@ Title: Leistungen
 
 ----
 
-Uuid: 0uj2poonq2xrrnxh
+Hero_title: Leistungen
+
+----
+
+Hero_text:
+
+----
+
+sections:
+- slug: sozialberatung
+  title: Sozialberatung
+  body: >
+    Die Sozialberatung richtet sich an unsere Zielgruppen im familiären wie auch individuellen Kontext.
+
+    Die Beratung und Begleitung bietet Unterstützung in Problemlagen und orientiert sich für die Problemlösung an den Bedürfnissen der Betroffenen.
+
+    Sei es in Entwicklungskrisen, Erziehungsfragen, Suchtfragen oder in Gewaltkontexten wie auch in der Erwerbsarbeit, Arbeitsintegration und Wohnsituation oder in finanziellen Fragen wie die Schuldenberatung- und -sanierung oder die Beratung und Übernahme von Vorsorgeaufträgen.
+
+- slug: sozialbegleitung
+  title: Sozialbegleitung und Krisenintervention
+  body: |
+    Die Sozialbegleitung als aufsuchende Krisenintervention, ist ein zeitlich begrenztes und im Rahmen der Dringlichkeit, ein niederschwelliges Angebot für familiäre und individuelle Systeme.
+
+    Die systemtheoretische Beratung und Begleitung betrachtet immer das Gesamtsystem Betroffener um, im Hinblick auf die Lösungsorientierung, möglichst alle verfügbaren Ressourcen zu aktivieren, die Krise zu bewältigen und Gefahr abzuwenden.
+
+    - Aufsuchende Krisenintervention für Familien und Kinder
+    - Krisenintervention für Erwachsene und Junge Erwachsene
+
+- slug: besuchsbegleitung
+  title: Besuchsbegleitung und Begleitete Übergaben
+  body: >
+    Damit die Kontakte zwischen dem getrennt lebenden Elternteil und dem Kind kindsgerecht stattfinden können, bieten wir Besuchsbegleitungen oder begleitete Übergaben an.
+
+    Aus unterschiedlichen Gründen gibt es immer wieder Situationen, in denen Kinder in diesen Kontakten begleitet werden müssen oder bei den Übergaben Begleitung notwendig ist. Wir bieten Begleitung mit professionellem Fachpersonal und nach den individuellen Bedürfnissen an.
+
+- slug: mediation
+  title: Mediation
+  body: >
+    Mediation ist eine aussergerichtliche Methode zur konstruktiven Beilegung von Konflikten aller Art. Sie findet in einem klar strukturierten Rahmen mit einer neutralen Vermittlerin und unter Berücksichtigung der Interessen und Bedürfnissen aller Beteiligten statt, mit dem Ziel, eine nachhaltige und eigenverantwortliche Lösung zu finden.
+
+- slug: juristische-beratung
+  title: Juristische Beratung
+  body: |
+    Jeden Donnerstagnachmittag **16–17 Uhr** kostenlose telefonische Rechtsberatung unter **061 561 74 03**
+
+    Die Juristische Beratung ist ein Beratungsangebot für Betroffene und deren Angehörigen im Kindes- und Erwachsenenschutzrecht, Verfahrensrecht, Ausländerrecht und Jugendstrafrecht.
+
+    - [Ausländerrecht](/assets/pdf/Auslaenderrecht.pdf)
+    - [Ehe- und Familienrecht](/assets/pdf/Familienrecht-1.pdf)
+    - [Erbrecht](/assets/pdf/Erbrecht.pdf)
+    - [Erwachsenenschutzrecht](/assets/pdf/Erwachsenenschutzrecht.pdf)
+    - [Jugendstrafrecht](/assets/pdf/Jugendstrafrecht.pdf)
+    - [Kindesschutzrecht](/assets/pdf/Kindesschutzrecht.pdf)
+    - [Konkubinatsverträge und Unterhaltsverträge](/assets/pdf/Konkubinatsvertraege-und-Unterhaltsvertraege.pdf)
+    - [Mediation für Familien und Eltern](/assets/pdf/Mediation-fuer-Familien-und-Eltern.pdf)
+    - [Mietrecht](/assets/pdf/Mietrecht.pdf)
+    - [Opferhilferecht](/assets/pdf/Opferhilferecht.pdf)
+    - [Schuldenbetreibungs- und Konkursrecht, Vertragsrecht, Schuldensanierung](/assets/pdf/Schuldbetreibungs-und-Konkursrecht-Vertragsrecht-Schuldensanierung.pdf)
+    - [Sozialversicherungsrecht](/assets/pdf/Sozialversicherungsrecht.pdf)
+    - [Sozialhilferecht](/assets/pdf/Sozialhilferecht.pdf)
+    - [Strafrecht](/assets/pdf/Strafrecht.pdf)
+
+- slug: abklaerungen
+  title: Abklärungen und Einschätzungen
+  body: |
+    Die Abklärungen sind professionell, sozial und prozessorientiert angelegt.
+
+    Die Fragestellungen gehen entlang einer Kindeswohlgefährdung beziehungsweise der Hilfsbedürftigkeit von Erwachsenen Personen.
+
+    Der Miteinbezug des gesamten familiären Systems, wie auch die Klärung der freiwilligen Unterstützungs- und Hilfsangebote sind uns ein grosses Anliegen um möglichst die Empfehlung einer angeordneten Kindes- oder Erwachsenenschutzmassnahme zu vermeiden.
+
+    Der Sozialbericht wird nach Möglichkeit mit den betroffenen Personen besprochen, worauf dann Empfehlungen ausgearbeitet werden.
+
+    - Kindesschutz
+    - Erwachsenenschutz
+    - Obhuts- und Sorgerechtsfragen- und beurteilungen vor Gericht
+
+- slug: mandatsfuehrung
+  title: Mandatsführung – Beistandschaft
+  body: |
+    Bei der Führung von Beistandschaften des Kindes- und Erwachsenenschutzes steht das Kind, der Jugendliche, die Eltern oder die schutzbedürftige Person und deren Wohl und Interesse im Zentrum.
+
+    Unser Selbstverständnis liegt in der möglichst persönlichen und individuellen Beratung, Begleitung und der Vertretung der betroffenen Person.
+
+    Das Übergeordnete Ziel ist die Förderung einer möglichst hohen Selbständigkeit sowie den Prozess einer gesunden Entwicklung in deren Lebenswelt zu ermöglichen.
+
+    Gleichzeitig sollen die Schutzbedürfnisse der betroffenen Personen und die fachlichen Standards und Vorgaben der auftraggebenden Stelle (Behörde oder Gericht) gewährleistet sein.
+
+    - Kindsvertretung in Kindesschutzverfahren
+    - [Mandatsführung Kinder](/assets/pdf/Mandatsfuehrung-Kinder.pdf)
+    - [Mandatsführung Erwachsene](/assets/pdf/Mandatsfuehrung-Erwachsene.pdf)
+
+- slug: temporaereinsaetze
+  title: Temporäreinsätze
+  body: >
+    Die Dienstleistung zeitlich befristeter Einsätze, richtet sich an Kindes- und Erwachsenenschutzbehörden, Berufsbeistandschaften und polyvalente Sozialdienste im Bereich des Kindes- und Erwachsenenschutzes, bei personellen Engpässen (wie Stellenwechsel, Mutterschaftsurlaub, krankheits- oder unfallbedingter Abwesenheit etc).
+
+    Unser Leistungsangebot umfasst Teamleitung, Abklärung und Mandatsführung inklusive Buchhaltung (KLIB).
+
+- slug: coaching
+  title: Coaching
+  body: >
+    Das Fachcoaching richtet sich an die fachliche Begleitung in der Mandatsführung im Kindes- und Erwachsenenschutz und die Unterstützung von Teams wie auch Einzelpersonen, bei der Klärung fachlicher Fragestellungen in der Mandatsführung oder in der Einarbeitung neuer Mitarbeitenden.
+
+- slug: mandatspruefung
+  title: Mandatsprüfung
+  body: >
+    In der Mandatsführung kann es bei den vielfältigen Aufgaben hinsichtlich Begleitung, Vertretung und Verwaltung zu Versäumnissen kommen, welche haftpflichtrechtliche Konsequenzen nach sich ziehen können.
+
+    Mit einer extern angelegten spezifischen Fallprüfung besteht die Möglichkeit Risiken in diesem Bereich zu minimieren.
+
+    Unser Angebot gilt auch der Prüfung von Antrittsinventaren sowie der Rechnungslegung nach den gesetzlichen oder reglementarischen Vorgaben.
